@@ -1,0 +1,11 @@
+# Project place file
+/HxH.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+init.meta.json
+aftman.toml
+selene.toml

@@ -1,0 +1,9 @@
+[package]
+name = "experience/hxh"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Red = "red-blox/red@2.3.0"
+Jecs = "ukendio/jecs@^0.3.0"

@@ -1,11 +1,17 @@
-# Project place file
-/HxH.rbxlx
+Packages/
+ServerPackages/
+_Index/
 
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
-
+*.rbxl
+*.rbxlx
+*.rbxlx.lock
+*.rbxl.lock
 sourcemap.json
-init.meta.json
-aftman.toml
-selene.toml
+
+.directory
+*~
+.*.swp
+.DS_Store
+Thumbs.db
+
+.vscode/

@@ -3,7 +3,7 @@
 registry = "test"
 
 [[package]]
-name = "experience/hxh"
+name = "experience/cxc"
 version = "0.1.0"
 dependencies = [["Jecs", "ukendio/jecs@0.3.2"], ["Red", "red-blox/red@2.3.2"]]
 

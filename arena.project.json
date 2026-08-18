@@ -1,0 +1,27 @@
+{
+  "name": "cxc-Arena",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$ignoreUnknownInstances": true,
+      "Shared": {
+        "$path": "src/shared",
+        "Packages": {
+          "$path": "Packages"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/arena/server" 
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/arena/client"
+        }
+      }
+    }
+  }
+}
